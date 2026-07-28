@@ -46,4 +46,4 @@ Data Visualisation
 Reporting and Analytics
 
 Dashboard Preview (screenshot/demo)
-      ![Dashboard Preview(]https://github.com/manusonagara15-ctrl/vrinda_store/blob/main/vrind_store.png)
+      ![Dashboard Preview](https://github.com/manusonagara15-ctrl/vrinda_store/blob/main/vrind_store.png)
